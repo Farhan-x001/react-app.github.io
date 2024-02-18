@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My React Application",
   "author": "Your Name",
-  "homepage": ".",
+  "homepage": "http://Farhan-001x.github.io/React-app",
   "private": false,
   "scripts": {
     "start": "react-scripts start",
